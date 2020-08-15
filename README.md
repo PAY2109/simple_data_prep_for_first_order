@@ -1,5 +1,6 @@
 # simple_data_prep_for_first_order
 This allows you to automatically prepare video for playing around with First Order Motion Model
+https://colab.research.google.com/github/AliaksandrSiarohin/first-order-model/blob/master/demo.ipynb#scrollTo=SB12II11kF4c
 # Dependencies
 moviepy
 
